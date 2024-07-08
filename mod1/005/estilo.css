@@ -1,0 +1,13 @@
+img#eu {
+    width: 250px;
+    display: flex;
+    margin: 0 auto;
+}
+
+header {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
